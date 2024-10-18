@@ -5,7 +5,7 @@
 """
 
 
-def minOperations(n):
+def minOperations(n: int) -> int:
     """ Computes minimum operations """
     operations = 0
     factor = 2
