@@ -24,4 +24,3 @@ def validUTF8(data):
             return False
         bytes = max(bytes - 1, 0)
     return bytes == 0
-
