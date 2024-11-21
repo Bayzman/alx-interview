@@ -2,8 +2,6 @@
 
 """ Rotate a 2D square matrix 90 degrees clockwise """
 
-from typing import List
-
 
 def rotate_2d_matrix(matrix) -> None:
     """" Rotate matrix 90 degrees clockwise """
