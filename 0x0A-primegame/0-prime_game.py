@@ -2,8 +2,9 @@
 
 """ Prime Game """
 
+
 def isWinner(x, nums):
-    """ Function that returns the winner of the game 
+    """ Function that returns the winner of the game
         Args:
             x: number of rounds
             nums: list of nums
